@@ -1,5 +1,5 @@
-name="XYZ-test"
-age=1235566
+name="Meharajdeen"
+age=45
 
 print(name)
 print(age)
