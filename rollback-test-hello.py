@@ -1,5 +1,5 @@
-name="wrong code"
-age=12
+name="Meharajdeen"
+age=45
 
 print(name)
 print(age)
